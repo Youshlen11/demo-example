@@ -1,2 +1,2 @@
-# demo-example
-Testing Github repo
+# Example
+KZNSC Intern Testing.
